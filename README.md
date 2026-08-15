@@ -1,0 +1,1 @@
+Projeto desenvolvido em Java utilizando Programação Orientada a Objetos (POO), com o objetivo de desenvolver um sistema funcional para um Pet Shop. O sistema permite o cadastro e gerenciamento de clientes, pets, veterinários, funcionários e produtos, permitindo interações entre eles.
